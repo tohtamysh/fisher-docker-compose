@@ -1,5 +1,3 @@
-A Docker Compose v2 aliases plugin for Fish shell.
-
 # Install
 
 ```bash
