@@ -1,12 +1,12 @@
 # Install
 
 ```bash
-$ fisher install tohtamysh/docker-compose.fish
+$ fisher install tohtamysh/fish-docker-compose
 ```
 
 # Usage
 
-|Abbreviation|Command|Description|
+|Alias|Command|Description|
 |-|-|-|
 |dcb|docker compose build|Build or rebuild services|
 |dccon|docker compose convert|Converts the compose file to platform's canonical format|
